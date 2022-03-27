@@ -1,8 +1,5 @@
 //Author Name: Kylie Fauquher
-//Date: 01/16/2022
-//Program Name: Fauquher_Drone
-//Purpose: Simulation using button, drone movement in x, y,z location
-
+//Date: 01/2022
 
 package sportdrone;
 
